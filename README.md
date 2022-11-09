@@ -1,0 +1,2 @@
+# faculty
+tema git GDSC
